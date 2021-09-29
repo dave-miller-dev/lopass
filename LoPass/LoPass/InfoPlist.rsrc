@@ -1,0 +1,3 @@
+CFBundleName = "LoPass";
+CFBundleShortVersionString = "1.0";
+CFBundleGetInfoString = "LoPass version 1.0, Copyright © 2021 David Miller.";
